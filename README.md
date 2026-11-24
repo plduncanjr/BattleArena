@@ -2,9 +2,9 @@
 
 **A collaborative C# console application development project**
 
-Battle Arena is a turn-based combat game in which avatars compete using their Attack, Defense, and Health attributes.
+Battle Arena 0.1 is a turn-based combat game in which avatars compete using their Attack, Defense, and Health attributes.
 
-This repository provides the starting application for a collaborative software development project. Students will work in small development pods to extend the game, test new features, review contributions, and integrate their work into a shared release.
+This repository provides the starting point application for a collaborative software development project. Students will work in small development pods to extend the game, test new features, review contributions, and integrate their work into a shared 1.0 release.
 
 ## Requirements
 
@@ -39,7 +39,7 @@ The application runs in the terminal and presents its interactive console interf
 
 The class operates as one Agile development team, organized into small development pods.
 
-Each pod maintains a fork of the central repository. Students work together to implement assigned backlog features, test their changes, and review one another's contributions.
+Each pod maintains a fork of the central repository. Students work together to implement assigned backlog features, test their changes, and review one another's contributions, and merge them into a single release branch.
 
 The central repository serves as the authoritative project.
 
@@ -48,7 +48,7 @@ The central repository serves as the authoritative project.
 - **main** : Last approved, working release.
 - **develop** : Integration of completed, reviewed features.
 - **Feature branches** : Development of individual features or tasks.
-- **release/1.0** : Release stabilization, when needed.
+- **release/1.0** : Stable 1.0 Release.
 
 Changes to shared project branches must be reviewed before integration.
 
@@ -56,11 +56,11 @@ Changes to shared project branches must be reviewed before integration.
 
 Every contribution should demonstrate purposeful development and responsible collaboration.
 
-Students are expected to:
+What you'll do during this project:
 
-- Understand the requirements of their assigned feature.
-- Coordinate changes with their development pod.
-- Build and test their work before submitting it.
+- Understand the requirements of your assigned feature.
+- Coordinate changes with your development pod.
+- Build and test your work before submitting it.
 - Use meaningful commit messages.
 - Participate in code review.
 - Document significant development decisions and testing results.
@@ -70,7 +70,7 @@ Students are expected to:
 
 ## Project Schedule
 
-Development takes place over three weeks, concluding during the final class meeting on **Thursday, December 10, 2026**.
+ See published Milestones in Meeting Room.
 
 The team will prioritize a minimum viable release, integrate completed features, correct critical defects, and document the final results.
 
